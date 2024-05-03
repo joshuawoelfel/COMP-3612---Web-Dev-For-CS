@@ -1,0 +1,9 @@
+[submodule "Project3"]
+	path = Project3
+	url = https://github.com/joshuawoelfel/Node.js-Art-Gallery-APIs---Web-Dev-for-CS
+[submodule "Project2"]
+	path = Project2
+	url = https://github.com/joshuawoelfel/Single-Page-Shakespeare-Plays-App---Web-Dev-for-CS
+[submodule "Project1"]
+	path = Project1
+	url = https://github.com/joshuawoelfel/Static-HTML-and-CSS-Website-App---Web-Dev-for-CS
