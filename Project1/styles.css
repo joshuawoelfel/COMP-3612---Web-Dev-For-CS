@@ -1,0 +1,159 @@
+body {
+	margin: 0em 0em 0em 0em;
+	font-family: Open Sans;
+	background-color: #f9f9f9;
+}
+
+.top li {
+	float: left;
+	padding: 0.35em 2em 0em 0em;
+}
+
+header {
+	overflow: hidden;
+}
+
+a:hover {
+	color: #8662c7;
+}
+
+
+p > a {
+	color: #51279b;
+	font-family: Roboto Slab;
+	text-decoration: none;
+}
+
+li > a {
+	color: #51279b;
+	font-family: Roboto Slab;
+	text-decoration: none;
+}
+
+.quote {
+	color: #FFFFFF;
+	margin: 10em 4em 4em 4em;
+	font-family: Roboto Slab;
+}
+
+.quote > blockquote > b {
+	font-size: 48px;
+}
+
+.quote > blockquote {
+	font-size: 24px;
+	font-family: Roboto Slab;
+}
+
+.quote > blockquote > button {
+	padding: 1em 1em 1em 1em;
+	color: #FFFFFF;
+	background-color: #51279b;
+	border-bottom-color: #51279b;
+	border-style: none;
+	font-family: Open Sans;
+}
+
+.quote > blockquote > button:hover {
+	background-color: #8662c7;
+}
+
+ul {
+  overflow:hidden;
+	list-style-type: none;
+}
+
+header > img {
+	float: left;
+	padding: 0.25em 0em 0em 0.5em
+}
+
+.top {
+	margin: 0em 0em 0em 0em;
+  padding-bottom: 10em;
+	background-image: url('images/florence.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 0;
+	height: auto;
+}
+
+.bottom {
+  margin-top: 1.2em;
+  
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+  background-color: #f9f9f9;
+}
+
+.card {
+  font-family: Roboto Slab;
+  display: inline-block;
+  width: 32.933%;
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+  background-color: #ffffff;
+}
+
+.card > a > img {
+  width: 100%;
+}
+
+.card p {
+  margin: 0em 0em 0em 0em;
+}
+
+.card ul {
+  display: block;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 0em;
+}
+
+.card li {
+  margin-bottom: 0.5em;
+  display: block;
+}
+.card li > img {
+  width: 1em;
+  height: 1em;
+  margin-left: 1em;
+}
+
+.card li:first-child {
+  font-size: 14px;
+}
+
+.card li:nth-child(2) {
+  font-size: 12px;
+}
+.card li:last-child {
+  margin-top: 0.5em;
+  font-size: 10px;
+  font-size: 10px;
+  float:left;
+}
+
+.card li:last-child p {
+  display: inline-block;
+  margin-left: 0.5em;
+}
+
+footer {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #ffffff;
+  text-align: center;
+  margin-left: calc(1.2em + 0.2%);
+  margin-right: calc(1.2em + 0.2%);
+}
+
+footer p {
+  font-size: 10px;
+  margin: 0.3em 0em 0.3em 0em;
+}
+
+footer a {
+  font-size: 14px;
+}
+
