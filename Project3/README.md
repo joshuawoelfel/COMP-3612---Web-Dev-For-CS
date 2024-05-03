@@ -9,7 +9,7 @@
 ### Deployment Options:
 - **Server Requirement:** This assignment requires a Node.js environment hosted on a server due to its dynamic nature.
 - **Hosting Option used:** Heroku
-- 
+
 ### API Endpoints and Functionality:
 - **General Endpoints:**
   - `/api/paintings`: Fetch all paintings.
