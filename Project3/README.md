@@ -8,11 +8,8 @@
 
 ### Deployment Options:
 - **Server Requirement:** This assignment requires a Node.js environment hosted on a server due to its dynamic nature.
-- **Hosting Options:** Recommended hosting services include:
-  - **Heroku:** Popular for its free tier and easy integration with GitHub. Requires CLI installation and setup.
-  - **Digital Ocean:** Accessible through Git Education program for possible free credits.
-  - **AWS or GCP:** Offers free credits but can be costly long-term. Suitable for those interested in DevOps.
-
+- **Hosting Option used:** Heroku
+- 
 ### API Endpoints and Functionality:
 - **General Endpoints:**
   - `/api/paintings`: Fetch all paintings.
@@ -34,9 +31,6 @@
 
 ### Additional Requirements:
 - **No Third-Party Libraries:** Use of native JavaScript is expected. If using small snippets of online code, provide references in the source code.
-
-### Performance Tips:
-- **Early Setup:** Arrange and test hosting well before the assignment deadline to ensure functionality and accessibility.
 
 ### Following links were provided for testing the API:
 https://stormy-basin-47606.herokuapp.com/paintings
